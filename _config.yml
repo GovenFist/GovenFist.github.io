@@ -1,11 +1,11 @@
 # Site settings
-author: Alex Govea
-title: 
+author: A. Govea
+title: Parsing HEC-RAS Flow and Geometry Files
 header-img: img/home-bg.png
 email: alex3govea@gmail.com
-copyright_name: Alex Govea
+copyright_name: A. Govea
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Samples on data processing, and reporting.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  GovenFist
